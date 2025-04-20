@@ -78,7 +78,7 @@ Cocktail-quiz
 1. Clone this repository:
    https://github.com/Moringa-SDF-PT10/felistus-kimanthi-cocktail-quiz
 
-2.Open index.html in your browser (no server required).
+2. Open index.html in your browser (no server required).
 
 3. Or use VS Code with Live Server:
 
