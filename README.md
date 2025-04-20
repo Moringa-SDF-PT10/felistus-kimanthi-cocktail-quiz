@@ -5,7 +5,7 @@ Welcome to the Cocktail Quiz Game – a fun, interactive, and dynamic trivia app
 
 🚀 Live Demo
 🔗 GitHub Pages URL
-https://github.com/Moringa-SDF-PT10/felistus-kimanthi-cocktail-quiz/tree/main
+https://moringa-sdf-pt10.github.io/felistus-kimanthi-cocktail-quiz/
 
 🎮 How to Play
 Click Start Quiz to begin.
@@ -57,8 +57,9 @@ Canvas Confetti
 Audio API
 
 📁 Project Structure
-/cocktail-quiz
-│
+
+Cocktail-quiz
+
 ├── index.html
 ├── styles.css
 ├── index.js
@@ -67,7 +68,7 @@ Audio API
 │ ├── correct.mp3
 │ ├── wrong.mp3
 │ ├── timeout.mp3
-│ ├── screenshot.png (optional)
+│
 
 🧪 How to Run Locally
 
