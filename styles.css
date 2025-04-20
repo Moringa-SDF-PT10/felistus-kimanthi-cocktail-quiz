@@ -1,0 +1,75 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #cd4d89;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#timer {
+  font-weight: bold;
+  color: rgb(248, 33, 87);
+  margin-bottom: 16px;
+  font-size: 18px;
+}
+.timer-bar {
+  height: 10px;
+  width: 100%;
+  background-color: #eee;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+#timer-fill {
+  height: 100%;
+  width: 100%;
+  background-color: #d14;
+  transition: width 1s linear;
+}
+
+.drink-image {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 10px;
+  margin: 16px auto;
+  display: block;
+}
+
+#app {
+  width: 90%;
+  max-width: 600px;
+  background: whitesmoke;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.hidden {
+  display: none;
+}
+
+button {
+  padding: 10px 15px;
+  margin-top: 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+button.correct {
+  background-color: #70fd70;
+}
+
+button.wrong {
+  background-color: #f38787;
+}
