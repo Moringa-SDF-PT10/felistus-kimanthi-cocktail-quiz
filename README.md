@@ -75,12 +75,8 @@ Cocktail-quiz
 
 **🧪 How to Run Locally**
 
-1. Clone this repository:
-   https://github.com/Moringa-SDF-PT10/felistus-kimanthi-cocktail-quiz
-
-2. Open index.html in your browser (no server required).
-
-3. Or use VS Code with Live Server:
+1. Clone this repository:a
+2. Or use VS Code with Live Server:
 
 --> Install Live Server extension
 
@@ -93,9 +89,9 @@ Cocktail-quiz
 
 2. Push and enable GitHub Pages in repo settings:
 
-Source: gh-pages branch
+- Source: gh-pages branch
 
-URL: https://moringa-sdf-pt10.github.io/felistus-kimanthi-cocktail-quiz/
+  URL: https://moringa-sdf-pt10.github.io/felistus-kimanthi-cocktail-quiz/
 
 **📘 Requirements Checklist**
 
