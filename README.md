@@ -1,14 +1,15 @@
 # felistus-kimanthi-cocktail-quiz
 
-🧠 Cocktail Quiz Game
+**🧠 Cocktail Quiz Game**
 Welcome to the Cocktail Quiz Game – a fun, interactive, and dynamic trivia app built with vanilla JavaScript and powered by the CocktailDB API. Test your knowledge about cocktails, ingredients, glass types, and more!
 
-🚀 Live Demo
+**🚀 Live Demo**
 🔗 GitHub Pages URL
 https://moringa-sdf-pt10.github.io/felistus-kimanthi-cocktail-quiz/
 
-🎮 How to Play
-Click Start Quiz to begin.
+**🎮 How to Play**
+
+- Click Start Quiz to begin.
 
 - You’ll be asked 6 multiple-choice questions about cocktails.
 
@@ -28,7 +29,7 @@ Click Start Quiz to begin.
 
 - Click Restart Quiz to try again!
 
-✨ Features
+**✨ Features**
 
 - 🧠 Dynamic Quiz Generation – Questions pulled from CocktailDB API
 
@@ -44,7 +45,7 @@ Click Start Quiz to begin.
 
 - 📊 Scoreboard – End-of-quiz summary with score, accuracy %, time, and review
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 - HTML5
 
@@ -58,7 +59,7 @@ Click Start Quiz to begin.
 
 - Audio API
 
-📁 Project Structure
+**📁 Project Structure**
 
 Cocktail-quiz
 
@@ -72,7 +73,7 @@ Cocktail-quiz
 │ ├── timeout.mp3
 │
 
-🧪 How to Run Locally
+**🧪 How to Run Locally**
 
 1. Clone this repository:
    https://github.com/Moringa-SDF-PT10/felistus-kimanthi-cocktail-quiz
@@ -85,7 +86,7 @@ Cocktail-quiz
 
 --> Right-click index.html → Open with Live Server
 
-📦 Deployment
+**📦 Deployment**
 
 1. Create a branch named gh-pages:
    git checkout -b gh-pages
@@ -96,7 +97,7 @@ Source: gh-pages branch
 
 URL: https://moringa-sdf-pt10.github.io/felistus-kimanthi-cocktail-quiz/
 
-📘 Requirements Checklist
+**📘 Requirements Checklist**
 
 1. Start Quiz button
 
@@ -114,8 +115,8 @@ URL: https://moringa-sdf-pt10.github.io/felistus-kimanthi-cocktail-quiz/
 
 8. GitHub Pages deployed
 
-🧑‍💻 Author
+**🧑‍💻 Author**
 
-Felistus Kimanthi
-Moringa School - SDF-PT10
+Felistus Kimanthi|
+Moringa School - SDF-PT10|
 GitHub Profile: https://github.com/Kimanthif
