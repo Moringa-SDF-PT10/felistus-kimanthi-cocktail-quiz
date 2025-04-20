@@ -10,51 +10,53 @@ https://moringa-sdf-pt10.github.io/felistus-kimanthi-cocktail-quiz/
 🎮 How to Play
 Click Start Quiz to begin.
 
-You’ll be asked 6 multiple-choice questions about cocktails.
+- You’ll be asked 6 multiple-choice questions about cocktails.
 
-Choose the correct ingredient from 4 possible options.
+- Choose the correct ingredient from 4 possible options.
 
-You have 10 seconds to answer each question.
+- You have 10 seconds to answer each question.
 
-You’ll get instant feedback if your answer is correct or not.
+- You’ll get instant feedback if your answer is correct or not.
 
-Your score will be shown at the end, along with:
+- Your score will be shown at the end, along with:
 
-Total time taken
+- Total time taken
 
-Percentage score
+- Percentage score
 
-Review of incorrect answers
+- Review of incorrect answers
 
-Click Restart Quiz to try again!
+- Click Restart Quiz to try again!
 
 ✨ Features
-🧠 Dynamic Quiz Generation – Questions pulled from CocktailDB API
 
-📷 Drink Images – View real-time thumbnails of each cocktail
+- 🧠 Dynamic Quiz Generation – Questions pulled from CocktailDB API
 
-⌛ Timer & Animated Progress Bar – 10s countdown per question with visual feedback
+- 📷 Drink Images – View real-time thumbnails of each cocktail
 
-🔊 Sound Effects – Audio for correct, wrong, and timeout responses
+- ⌛ Timer & Animated Progress Bar – 10s countdown per question with visual feedback
 
-⌨️ Keyboard Shortcuts – Use keys 1 to 4 to select your answer
+- 🔊 Sound Effects – Audio for correct, wrong, and timeout responses
 
-🎉 Confetti Celebration – Confetti on the final screen if you finish the quiz
+- ⌨️ Keyboard Shortcuts – Use keys 1 to 4 to select your answer
 
-📊 Scoreboard – End-of-quiz summary with score, accuracy %, time, and review
+- 🎉 Confetti Celebration – Confetti on the final screen if you finish the quiz
+
+- 📊 Scoreboard – End-of-quiz summary with score, accuracy %, time, and review
 
 🛠️ Technologies Used
-HTML5
 
-CSS3
+- HTML5
 
-JavaScript (ES6+)
+- CSS3
 
-CocktailDB API
+- JavaScript (ES6+)
 
-Canvas Confetti
+- CocktailDB API
 
-Audio API
+- Canvas Confetti
+
+- Audio API
 
 📁 Project Structure
 
@@ -73,7 +75,7 @@ Cocktail-quiz
 🧪 How to Run Locally
 
 1. Clone this repository:
-   https://github.com/Moringa-SDF-PT10/felistus-kimanthi-cocktail-quiz/tree/main
+   https://github.com/Moringa-SDF-PT10/felistus-kimanthi-cocktail-quiz
 
 2.Open index.html in your browser (no server required).
 
@@ -88,30 +90,32 @@ Cocktail-quiz
 1. Create a branch named gh-pages:
    git checkout -b gh-pages
 
-2.Push and enable GitHub Pages in repo settings:
+2. Push and enable GitHub Pages in repo settings:
 
 Source: gh-pages branch
 
 URL: https://moringa-sdf-pt10.github.io/felistus-kimanthi-cocktail-quiz/
 
 📘 Requirements Checklist
-Start Quiz button
 
-Random multiple-choice cocktail questions
+1. Start Quiz button
 
-Timer per question
+2. Random multiple-choice cocktail questions
 
-Score tracking and feedback
+3. Timer per question
 
-Review incorrect answers
+4. Score tracking and feedback
 
-Confetti + sounds
+5. Review incorrect answers
 
-Restart option
+6. Confetti + sounds
 
-GitHub Pages deployed
+7. Restart option
+
+8. GitHub Pages deployed
 
 🧑‍💻 Author
+
 Felistus Kimanthi
 Moringa School - SDF-PT10
 GitHub Profile: https://github.com/Kimanthif
